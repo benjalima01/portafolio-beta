@@ -65,6 +65,10 @@ body{
     color: var(--color-terciaria); ;
 }
 
+.titulo-destaque:hover {
+    color: red;
+}
+
 .presentacion__contenido__texto{
     font-size: 1.5rem;
     font-family: var(--fuente-montserrat);
