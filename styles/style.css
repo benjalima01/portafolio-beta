@@ -105,6 +105,7 @@ body{
 
 .presentacion__enlaces__link:hover{
     background-color: var(--color-hover);
+    color: red;
 }
 
 .presentacion__imagen{
